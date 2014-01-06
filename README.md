@@ -15,4 +15,6 @@ This document is made by [gitfab](http://gitfab.org)
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/BnXDzmmvISs" frameborder="0"></iframe>
 
+
+[mouse-2.stl](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/mouse-2.stl)
 ---
