@@ -11,4 +11,6 @@ This document is made by [gitfab](http://gitfab.org)
 [mouse.stl](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/mouse.stl)
 
 [click.stl](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/click.stl)
+
+![image.jpg](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/image.jpg)
 ---
