@@ -9,9 +9,9 @@ This document is made by [gitfab](http://gitfab.org)
  - Officeを使うとき
  - ネットサーフィン
 
-<a href="http://creativecommons.org/licenses/by/4.0/deed.ja"></a><a href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="width:88px;border-width:0;" src="http://i.creativecommons.org/l/by/4.0/88x31.png"></a>
-
 ![image.jpg](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/image.jpg)
+
+<a href="http://creativecommons.org/licenses/by/4.0/deed.ja"></a><a href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="width:88px;border-width:0;" src="http://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
 ---
 # 材料
