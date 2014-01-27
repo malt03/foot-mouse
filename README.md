@@ -13,6 +13,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ---
 # 作り方
+
 - 用意するもの
  - どこの家庭にでもあるようなビニールテープ
  - どこの家庭にでもあるような分解可能なマウス
@@ -20,12 +21,18 @@ This document is made by [gitfab](http://gitfab.org)
 
 - あると良いもの
  - [Rhinoceros](http://www.rhino3d.co.jp/)
+
+まず，"5. ダウンロード"から，stl_files.zipをダウンロードして，mouse.stlとclick.stlを3Dプリンターで印刷する．
 ---
 #デモ
 ---
 #課題
 ---
 #ダウンロード
+
+[stl_files.zip](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/stl_files.zip)
+
+[3dm_files.zip](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/3dm_files.zip)
 
 [mouse.stl](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/mouse.stl)
 
