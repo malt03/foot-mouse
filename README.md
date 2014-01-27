@@ -9,7 +9,7 @@ This document is made by [gitfab](http://gitfab.org)
  - Officeを使うとき
  - ネットサーフィン
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="width:88px;border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a href="http://creativecommons.org/licenses/by/4.0/deed.ja"></a><a href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="width:88px;border-width:0;" src="http://i.creativecommons.org/l/by/4.0/88x31.png"></a>
 
 ![image.jpg](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/image.jpg)
 
@@ -48,7 +48,7 @@ This document is made by [gitfab](http://gitfab.org)
 #デモ
 日常的に使っていたら，体重をかけた時に壊れてしまいました…，疲労かと思います…．  
 5. 課題に書きましたが，さすがに薄くしすぎたようです．  
-そのためデモはありません．申し訳ありません…．
+そのためデモはありません…．
 ---
 #課題
 実際に作って課題が多数見つかりました．Rhinocerosを使える人に改善してもらえることを期待します．括弧内は実際に使っていた時の対処法です．
