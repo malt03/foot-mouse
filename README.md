@@ -11,7 +11,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![image.jpg](https://raw.github.com/malt03/foot-mouse/master/gitfab/resources/image.jpg)
 
-<a href="http://creativecommons.org/licenses/by/4.0/deed.ja"></a><a href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="width:88px;border-width:0;" src="http://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="width:88px;border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><a xmlns:cc="http://creativecommons.org/ns#" href="http://gitfab.org/malt03/foot-mouse/master/" property="cc:attributionName" rel="cc:attributionURL">http://gitfab.org/malt03/foot-mouse/master/</a> 作『<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">foot-mouse</span>』は<a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>で提供されています。
 
 ---
 # 材料
